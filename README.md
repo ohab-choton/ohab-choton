@@ -6,6 +6,9 @@ Abdul Ohab is a backend developer with a mid foundation in Python and Django. Sp
 
 Skills: Python/ Java/Sql/HTML/CSS
 
+- 🌱 I’m currently learning js, tailwind, 
+- 💬 Ask me about python 
+- 📫 How to reach me: ohabchoton@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ohab-choton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/link.abdulohab)  
