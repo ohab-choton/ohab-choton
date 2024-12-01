@@ -1,4 +1,4 @@
-### Hi there 👋, Abul Ohab
+### Hi there 👋, Abdul Ohab
 #### Backend Developer with python(django)
 ![Backend Developer with python(django)](https://github.com/ohab-choton/ohab-choton/blob/main/Django_Backend_Project.jpg)
 
@@ -6,7 +6,6 @@ Abdul Ohab is a backend developer with a mid foundation in Python and Django. Sp
 
 Skills: Python/ Java/Sql/HTML/CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ohab-choton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/link.abdulohab)  
