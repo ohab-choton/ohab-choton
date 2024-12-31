@@ -32,8 +32,8 @@ Hi there! I'm Abdul Ohab, a passionate Backend Developer with a strong foundatio
 - Developing dynamic and reliable platforms that optimize web performance.
 
 ## 🌱 Currently Learning:
-- Diving deeper into **Django ** and **DRF**   planing to learning next (Docker, Kubernetes).
-- Exploring **Machine Learning ** to enhance application deployment processes.
+- Diving deeper into **cloud technologies** and **containerization** (Docker, Kubernetes).
+- Exploring **DevOps practices** to enhance application deployment processes.
 
 ## 💬 Ask Me About:
 - **Python** and **Django** backend development.
@@ -43,7 +43,9 @@ Hi there! I'm Abdul Ohab, a passionate Backend Developer with a strong foundatio
 ---
 
 ## 🌍 Connect With Me:
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/ohab-choton)  [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/link.abdulohab)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ohab-choton) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/link.abdulohab)  
 
 ---
 
